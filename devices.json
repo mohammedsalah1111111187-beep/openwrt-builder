@@ -1,0 +1,8 @@
+{
+  "nanostation-m2-xw": {
+    "profile": "ubnt_nanostation-m-xw"
+  },
+  "tl-wr841n": {
+    "profile": "tplink_tl-wr841n-v9"
+  }
+}
